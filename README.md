@@ -2,9 +2,9 @@
 
 I'm Dan, a self-taught Data Analyst 
 
-> Mathematics graduate with a passion for problem solving
-> Making the move into Data Analystics in 2024
-> Love working with numbers and data. I have self-taught myself both Python and SQL
+- Mathematics graduate with a passion for problem solving
+- Making the move into Data Analystics in 2024
+- Love working with numbers and data. I have self-taught myself both Python and SQL
 
 I am currently learning both Python and SQL to further my skills
 
