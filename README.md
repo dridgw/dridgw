@@ -9,6 +9,11 @@ I'm Dan, a self-taught Data Analyst
 I am currently learning both Python and SQL to further my skills
 
 I am looking for help with different projects where I can showcase and push my new skills
+
+## Data Analyst Project Frontpage
+I have created a page which includes everything I have been working on in realtion to my Data Analyst studies
+
+[Project Frontpage](https://github.com/dridgw/Portfolio_Frontpage)
 <!--
 **dridgw/dridgw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
