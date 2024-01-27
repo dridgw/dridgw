@@ -6,14 +6,17 @@ I'm Dan, a self-taught Data Analyst
 - Making the move into Data Analystics in 2024
 - Love working with numbers and data. I have self-taught myself both Python and SQL
 
-I am currently learning both Python and SQL to further my skills
-
 I am looking for help with different projects where I can showcase and push my new skills
 
-## Data Analyst Project Frontpage
+### Data Analyst Project Frontpage
 I have created a page which includes everything I have been working on in realtion to my Data Analyst studies
 
 [Project Frontpage](https://github.com/dridgw/Portfolio_Frontpage)
+
+### Tools
+- Languages: SQL, Python
+- Visualisation: IBM Cognos, Microsoft Excel
+
 <!--
 **dridgw/dridgw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
